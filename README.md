@@ -1,13 +1,13 @@
-# web-nodejs-sample
+# Yelp-Camp
 
-ExpressJS Sample Application
+ExpressJS Application For Campgrounds Display with Authentication
 
 # Developer Workspace
 [![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=r8et9w6vohmqvro8)
 
 # Stack to use
 
-FROM [codenvy/node](https://hub.docker.com/r/codenvy/node/)
+MEAN Stack
 
 # How to run
 
