@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cat-me": "^1.0.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "faker": "^4.1.0",
+    "knock-knock-jokes": "^1.7.0",
+    "mongoose": "^4.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flaredragon",
+  "license": "ISC"
+}
